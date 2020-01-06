@@ -1,4 +1,7 @@
-# Introduction to Deep Learning Jadavpur University Information Technology Department   
+# Introduction to Deep Learning 
+
+**Venue : Jadavpur University Information Technology Department** 
+ 
 explaining the concepts from Percepton , Activation Functions , 
 Forward Propagation , Backward propagation , Gradient Descent , 
 Stochastic Gradient Descent , Mini Batch Gradient Descent , 
